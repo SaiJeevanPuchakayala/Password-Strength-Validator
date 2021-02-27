@@ -1,2 +1,2 @@
-# Password-Strenght-Validator
-Eliminate Common Passwords
+# Password-Strength-Validator
+![Strengthy Lock](readicon.png)
