@@ -10,4 +10,5 @@
 #### 3. `Pandas`
 
 #### GUI Window
-![GUI Window](Images/GUI.png)
+![GUI Window](Images/GUI.png) => ![GUI Window](Images/1.png)
+![GUI Window](Images/2.png) => ![GUI Window](Images/3.png)
