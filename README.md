@@ -12,3 +12,6 @@
 #### GUI Window
 ![GUI Window](Images/GUI.png)![GUI Window](Images/1.png)
 ![GUI Window](Images/2.png)![GUI Window](Images/3.png)
+### Contribute
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
