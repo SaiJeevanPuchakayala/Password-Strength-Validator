@@ -1,5 +1,5 @@
 # Password-Strength-Validator
-![Strengthy Lock](readicon.png)
+![Strengthy Lock](Images/readicon.png)
 
 
 #### = > This is a Password Strength Validator built using `Regex` and `Tkinter` GUI.
@@ -10,4 +10,4 @@
 #### 3. `Pandas`
 
 #### GUI Window
-![GUI Window](GUI.png)
+![GUI Window](Images/GUI.png)
